@@ -1,6 +1,7 @@
 movies_metadata.csv
 ratings.csv
 wikipedia-movies.json
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
